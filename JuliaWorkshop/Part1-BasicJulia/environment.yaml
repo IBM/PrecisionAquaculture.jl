@@ -1,6 +1,0 @@
-name: julia
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - numpy
