@@ -9,6 +9,7 @@ dependencies:
   - r-ggplot2
   - r-caret
   - r-xgboost
+  - r-e1071 
 # python dependencies
   - python
   - numpy
