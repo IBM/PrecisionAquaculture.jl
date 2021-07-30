@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
 # r dependencies
-  - r-base=4.1
+  - r-base
   - r-tidyverse
   - r-randomForest
   - r-ggplot2
