@@ -1,5 +1,0 @@
-install.packages("tidyverse")
-install.packages("randomForest")
-install.packages("ggplot2")
-install.packages("caret")
-install.packages("xgboost")
