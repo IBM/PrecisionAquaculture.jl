@@ -9,7 +9,14 @@ dependencies:
   - r-ggplot2
   - r-caret
   - r-xgboost
-  - r-e1071 
+  - r-e1071
+  - r-iml
+  - r-rcolorbrewer
+  - r-reshape2
+  - r-gridextra
+  - r-rstatix
+  - r-ggpubr
+  - r-plyr
 # python dependencies
   - python
   - numpy
