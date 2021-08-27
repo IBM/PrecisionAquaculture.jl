@@ -17,6 +17,7 @@ dependencies:
   - r-rstatix
   - r-ggpubr
   - r-plyr
+  - r-patchwork
 # python dependencies
   - python
   - numpy
